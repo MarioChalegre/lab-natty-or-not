@@ -1,16 +1,15 @@
-# Título do Projeto Extremamente Aesthetic ;)
-
+# Imagem feita por uma IA
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de uma imagem onde coloquei meu sonho.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsfot Bing
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criação de texto para imagem pelo Microsfot Bing
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Estara dentro da pasta Imagens IA
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+--
